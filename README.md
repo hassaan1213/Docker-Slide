@@ -17,7 +17,7 @@ sudo apt-get install git
 ### Once you have installed Git, follow the following steps
 
 ```
-git clone https://github.com/aamirpinger/docker-slide-code.git
+git clone https://github.com/hassaan1213/docker-slide-code.git
 ```
 ```
 ls
